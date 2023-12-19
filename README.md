@@ -1,4 +1,4 @@
-### Hi there 👋 I am Piumi Kavindya
+### Hi 👋 I am Piumi Kavindya
 
 <!--
 **Piumikavindya/Piumikavindya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

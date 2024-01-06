@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piumi Kavindya</h1>
-<h3 align="center">Computer Engineering Undergraduate</h3>
+<h3 align="center">BSc (Hons) Computer Engineering Undergraduate</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piumikavindya&label=Profile%20views&color=0e75b6&style=flat" alt="piumikavindya" /> </p>
 
@@ -19,6 +19,5 @@
 ---
 <h3 align="left">⚡ Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piumikavindya&show_icons=true&locale=en&layout=compact" alt="piumikavindya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piumikavindya&show_icons=true&locale=en" alt="piumikavindya" /></p>
+[![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumikavindya&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piumikavindya&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

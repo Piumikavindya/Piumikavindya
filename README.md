@@ -30,3 +30,4 @@
 
 [![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumikavindya&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piumikavindya&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piumikavindya&" alt="piumikavindya" /></p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piumikavindya&label=Profile%20views&color=0e75b6&style=flat" alt="piumikavindya" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piumikavindya&title=Commit,Repositories,PullRequest,Issues&theme=onedark&no-bg=true&column=4&margin-w=158&margin-h=15&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piumikavindya&title=Commit,Repositories,PullRequest,Issues&theme=onedark&no-bg=true&column=4&margin-w=50&margin-h=15&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 - 🔭 I’m currently working on **ReuseMart App**

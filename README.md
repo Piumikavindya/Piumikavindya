@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Piumi Kavindya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering Undergraduate</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=piumikavindya&label=Profile%20views&color=0e75b6&style=flat" alt="piumikavindya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piumikavindya&label=Profile%20views&color=0e75b6&style=flat" alt="piumikavindya" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Piumikavindya&title=Commit,Repositories,PullRequest,Issues&theme=onedark&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+- 🔭 I’m currently working on **ReuseMart App**
+
+- 🌱 I’m currently learning **java,AWS cloud,docker-kubernetes**
+
+- 👯 I’m looking to collaborate on **Procurement Management System**
+
+- 📫 How to reach me **piumikavindyappk@gmail.com**
 
 ---
 <h3 align="left">Connect with me:</h3>

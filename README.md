@@ -6,11 +6,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Piumikavindya&title=Commit,Repositories,PullRequest,Followers,MultiLanguage&theme=onedark&no-bg=true&column=5&margin-w=15&margin-h=15&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-- 🔭 I’m currently working on **ReuseMart App**
+- 🔭 I’m currently working on **Procurement Management System**
 
 - 🌱 I’m currently learning **java,AWS cloud,docker-kubernetes**
 
-- 👯 I’m looking to collaborate on **Procurement Management System**
+- 👯 I’m looking to collaborate on *Library Management System**
 
 - 📫 How to reach me **piumikavindyappk@gmail.com**
 

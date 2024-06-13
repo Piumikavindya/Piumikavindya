@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **piumikavindyappk@gmail.com**
 
+- 🔭 Find my works from my Portfolio **https://piumi-kavindya-portfolio.vercel.app/**
+
+- 📫 Find my articles on Medium **https://medium.com/@piyumikavindyappk**
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
